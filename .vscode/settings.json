@@ -10,7 +10,7 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "python.defaultInterpreterPath": "D:\\github\\Python\\NEURO_BOT\\env\\python.exe",
     "python.formatting.provider": "black",
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
